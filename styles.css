@@ -53,6 +53,7 @@ p {
     color: #dfdce8;
     font-weight: bold;
 }
+
 /* Divs */
 .odd {
     background-color: #060930;
@@ -127,13 +128,6 @@ p {
 #skills {
     padding-bottom: 0;
 }
-/* .skill-items {
-    margin: auto;
-    width: 60%;
-} */
-/* .skill-section {
-    margin: auto;
-} */
 .skill-text {
     margin: auto;
     text-align: left;
@@ -147,10 +141,6 @@ p {
 h2.toolbox-header {
     margin: none;
 }
-/* .toolboxes:active {
-    border: none;
-    color: #060930;
-} */
 
 /* Projects */
 .project-cards {
