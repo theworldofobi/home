@@ -169,6 +169,9 @@ toolbox-header {
 .interest-section {
     padding: 3%;
 }
+.interest-header {
+    margin-bottom: none;
+}
 .interest-text {
     text-align: left;
 }
