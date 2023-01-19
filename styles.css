@@ -166,6 +166,10 @@ toolbox-header {
 }
 
 /* Interests */
+.interests-body {
+    width: 90%;
+    margin: auto;
+}
 .interest-section {
     padding: 3%;
 }
