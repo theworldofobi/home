@@ -145,16 +145,18 @@ toolbox-header {
 /* Projects */
 .project-cards {
     margin: 3% auto;
+    border-color: #dfdce8;
 }
 .project-card {
     margin: auto;
-    width: 30%;
+    width: 90%;
 }
 .project-tools {
     display: inline-block;
 }
 .card-body {
     color: #060930;
+    background-color: #dfdce8;
     text-align: left;
 }
 .project-img {
@@ -163,6 +165,21 @@ toolbox-header {
 }
 .project-hr {
     margin: 16px 0;
+}
+
+.link-button {
+    background-color: #060930;
+    border-radius: 4px;
+    color: #dfdce8;
+    margin-top: 3%;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+.link-button:hover {
+    background-color: #595b83;
+    border-color: #595b83;
+    color: #dfdce8;
+    transition-duration: 0.3s;
 }
 
 /* Interests */
